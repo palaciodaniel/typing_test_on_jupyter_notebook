@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=https%3A%2F%2Fgithub.com%2Fpalaciodaniel%2Ftyping_test_on_jupyter_notebook%2Fblob%2Fmain%2Ftyping_test_on_jupyter.ipynb)
 # Typing Test on Jupyter Notebook
 
 It is just a small program I wrote yesterday during the afternoon. It will generate a random text that you need to write as fast as possible, but without sacrificing precision. At the end you will get your Words per Minute (WPM) and a comparison with the average typing speed.
@@ -10,7 +11,7 @@ The most challenging part was to make Jupyter Notebook to correctly display the 
 
 ## Instructions
 
-To run the program, you can either enter the following [link]() or click on the **Launch Binder** icon. Once the Jupyter Notebook is loaded (it can take a while!), just go to the **Cell** tab on the menu and press **Run All**.
+To run the program, you can either enter the following [link](https://mybinder.org/v2/gh/palaciodaniel/typing_test_on_jupyter_notebook/main?filepath=https%3A%2F%2Fgithub.com%2Fpalaciodaniel%2Ftyping_test_on_jupyter_notebook%2Fblob%2Fmain%2Ftyping_test_on_jupyter.ipynb) or click on the **Launch Binder** icon. Once the Jupyter Notebook is loaded (it can take a while!), just go to the **Cell** tab on the menu and press **Run All**.
 
 If you want to repeat it, go to the **Kernel** tab and press **Restart and Run All**.
 
